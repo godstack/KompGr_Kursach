@@ -56,6 +56,22 @@ h1 {
   margin: 0 auto;
 }
 
+.history_new-pic-1 {
+  background-image: url("./images/1.jpg");
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin: 0 auto;
+}
+
+.history_new-pic-2 {
+  background-image: url("./images/2.jpg");
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin: 0 auto;
+}
+
 .construction_picture-modified {
   background-image: url("./images/with-glock.jpg");
   width: 600px;
@@ -68,6 +84,14 @@ h1 {
   background-image: url("./images/terrorists.jpg");
   width: 1100px;
   height: 700px;
+  background-size: 100% 100%;
+  margin: 0 auto;
+}
+
+.construction_new-pic-3 {
+  background-image: url("./images/3.jpg");
+  width: 550px;
+  height: 400px;
   background-size: 100% 100%;
   margin: 0 auto;
 }
@@ -88,8 +112,40 @@ h1 {
   margin: 0 auto;
 }
 
+.characteristics_new-pic-4 {
+  background-image: url("./images/4.jpg");
+  height: 400px;
+  width: 300px;
+  background-size: 100% 100%;
+  margin: 0 auto;
+}
+
 .models_fron-pic {
   background-image: url("./images/front-glock.jpg");
+  height: 400px;
+  width: 300px;
+  background-size: 100% 100%;
+  margin: 0 auto;
+}
+
+.models_new-pic-5 {
+  background-image: url("./images/5.jpg");
+  height: 400px;
+  width: 300px;
+  background-size: 100% 100%;
+  margin: 0 auto;
+}
+
+.models_new-pic-6 {
+  background-image: url("./images/6.jpg");
+  height: 400px;
+  width: 300px;
+  background-size: 100% 100%;
+  margin: 0 auto;
+}
+
+.models_new-pic-7 {
+  background-image: url("./images/7.jpg");
   height: 400px;
   width: 300px;
   background-size: 100% 100%;
